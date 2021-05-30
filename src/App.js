@@ -37,7 +37,7 @@ export default function App() {
   }
   return (
     <div className="App">
-      <h1> 🎬 goodmovies </h1>
+      <h1><span role = "img" aria-label = "clapper">🎬</span> goodmovies </h1>
       <p style={{ fontSize: "medium" }}>
         {" "}
         Checkout my favourite Movies. Select a genre to get started{" "}
